@@ -3,7 +3,7 @@
 Observação: Nessa versão foi utilizado Spring Boot e teve alteração quanto ao modelo ER.
  
                         Aluga Junto- Descrição
- Osite foi desenvolvido para facilitar a visualização e o anúncio de vagas em
+ O site foi desenvolvido para facilitar a visualização e o anúncio de vagas em
  apartamentos ou casas para dividir com outras pessoas, ou seja, para sublocação.
  Nele, é possível consultar informações detalhadas sobre as vagas disponíveis,
  como número de dormitórios, banheiros, garagem, área total do imóvel e também o
