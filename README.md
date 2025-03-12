@@ -1,6 +1,6 @@
 # API-Backend-AlugaJunto
  Projeto desenvolvido para a disciplina de Programação Orientada a Objetos II(4º Semestre)
-Observação: Nessa versão foi utilizado Spring Boot e teve alteração quanto ao modelo ER.
+ Observação: Nessa versão foi utilizado Spring Boot e teve alteração quanto ao modelo ER.
  
                         Aluga Junto- Descrição
  O site foi desenvolvido para facilitar a visualização e o anúncio de vagas em
